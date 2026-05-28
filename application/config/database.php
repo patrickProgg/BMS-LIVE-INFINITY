@@ -7,10 +7,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn' => '',
-	'hostname' => 'mysql-loan-monitoring.alwaysdata.net',
-	'username' => 'loan-monitoring',
-	'password' => 'ackXBu_FqG8KhbU',
-	'database' => 'loan-monitoring_bms',
+	'hostname' => 'sql302.infinityfree.com',
+	'username' => 'if0_42035833',
+	'password' => 'Bersaluna061402',
+	'database' => 'if0_42035833_bms',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
