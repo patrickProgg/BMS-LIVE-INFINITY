@@ -31,7 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 // $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
 // $config['base_url'] = 'https://loan-monitoring.alwaysdata.net/';
 // $config['base_url'] = 'https://loan-monitoring.alwaysdata.net/bms/'; balik og mo bayad na
-$config['base_url'] = 'https://bms.page.gd/bms/';
+$config['base_url'] = 'https://bms.page.gd/';
 /*
 |--------------------------------------------------------------------------
 | Index File
