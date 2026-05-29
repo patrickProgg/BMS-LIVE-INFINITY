@@ -2,7 +2,8 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 
 // require_once APPPATH . '../vendor/autoload.php'; // adjust path if needed
-require_once FCPATH . 'vendor/autoload.php';
+// require_once FCPATH . 'vendor/autoload.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/vendor/autoload.php';
 
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
