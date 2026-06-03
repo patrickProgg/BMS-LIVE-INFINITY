@@ -361,7 +361,8 @@
         </div>
         <div class="footer-text">
             ©
-            <script>document.write(new Date().getFullYear())</script> LOAN MONITORING-SYS.
+            <!-- <script>document.write(new Date().getFullYear())</script> LOAN MONITORING-SYS. -->
+            <script>document.write(new Date().getFullYear())</script> PATRICK MONITORING-SYS. All rights reserved.
         </div>
     </div>
 </div>
