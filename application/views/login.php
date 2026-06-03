@@ -321,7 +321,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PATRICK MONITORING</title>
+    <title>BUSINESS MANAGEMENT SYSTEM</title>
     <link rel="icon" type="image/png" href="<?= base_url('assets/images/loan.png'); ?>">
 </head>
 
@@ -361,8 +361,7 @@
         </div>
         <div class="footer-text">
             ©
-            <!-- <script>document.write(new Date().getFullYear())</script> LOAN MONITORING-SYS. -->
-            <script>document.write(new Date().getFullYear())</script> PATRICK MONITORING-SYS. All rights reserved.
+            <script>document.write(new Date().getFullYear())</script> BUSINESS MANAGEMENT SYSTEM.
         </div>
     </div>
 </div>
